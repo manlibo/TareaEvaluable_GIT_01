@@ -1,4 +1,4 @@
 <?php
-//archivo view.php
+//archivo view.php modificado
 
 ?>
