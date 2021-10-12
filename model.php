@@ -1,4 +1,4 @@
 <?php
-//archivo model.php
+//archivo model.php modificado
 
 ?>
